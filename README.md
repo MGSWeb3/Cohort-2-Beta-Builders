@@ -1,1 +1,1 @@
-## GitHub for Cretives
+## GitHub for Creatives
