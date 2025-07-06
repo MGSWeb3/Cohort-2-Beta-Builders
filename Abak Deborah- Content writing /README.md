@@ -16,7 +16,7 @@ The NFT was designed to support that vision by:
 - Enabling creative participation in governance, access and future programs.
 This NFT lives on-chain, it is a proof of participation that anyone can verify. It is a token that can grow in utility as the community grows, without having to be explained over and over again. 
 
-◾️**How it Represents Community Ownership
+◾️**How it Represents Community Ownership**
 
 Ownership in this context is about having a place and a voice in the MGSWeb3 ecosystem, it's not just about being a token holder. Here is how the Cohort 2 NFT represents community ownership:
 - Creating a network of trust: The NFT is tied to verified participation, it becomes a signal of credibility within MGSWeb3 and beyond, helping community members recognize each other as trusted collaborators.
