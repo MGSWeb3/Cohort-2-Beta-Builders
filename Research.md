@@ -5,21 +5,21 @@ _Introduction_
 NFT projects are more than just digital art. Their value often depends on the strength of the community, utility, cultural relevance, and how well the project is executed. This analysis examines successful global and African NFT projects to identify what makes them valuable and their community impact.
 
 _Global NFT Success Factors_
-*Community Strength and Exclusivity
-Projects like Bored Ape Yacht Club (BAYC) built value through exclusivity, community events, and brand partnerships. Holding a Bored Ape became a status symbol, but it also gave members access to real-world perks and networking opportunities. This approach demonstrates how NFT projects can create value beyond the digital asset itself by fostering exclusive communities that provide tangible benefits.
-*Utility and Real-World Application
-Projects like Azuki and DeGods go beyond static art by offering holders staking options, games, governance roles, or integration with metaverse platforms. NFTs with added functions tend to attract longer-term engagement. The most successful projects treat their NFTs as keys to broader ecosystems rather than standalone collectibles, creating multiple value streams for holders.
-*Cultural Narrative and Purpose
-World of Women (WoW) used its platform to address gender inequality in crypto. Its success came not just from its art but from the community and partnerships it formed by aligning with a clear message and identity. Projects that connect with genuine cultural narratives demonstrate stronger long-term value retention than those based on artificial or borrowed cultural elements.
-*Consistent Roadmaps and Execution
+1. Community Strength and Exclusivity
+Projects like Bored Ape Yacht Club (BAYC) built value through exclusivity, community events, and brand partnerships. Holding a Bored Ape became a status symbol, but it also gave members access to real-world perks and networking opportunities. This approach demonstrates how NFT projects can create value beyond the digital asset itself by fostering exclusive communities that provide tangible benefits.  
+2. Utility and Real-World Application
+Projects like Azuki and DeGods go beyond static art by offering holders staking options, games, governance roles, or integration with metaverse platforms. NFTs with added functions tend to attract longer-term engagement. The most successful projects treat their NFTs as keys to broader ecosystems rather than standalone collectibles, creating multiple value streams for holders.  
+3. Cultural Narrative and Purpose
+World of Women (WoW) used its platform to address gender inequality in crypto. Its success came not just from its art but from the community and partnerships it formed by aligning with a clear message and identity. Projects that connect with genuine cultural narratives demonstrate stronger long-term value retention than those based on artificial or borrowed cultural elements.  
+4. Consistent Roadmaps and Execution
 A strong founding team with a clear vision helps maintain momentum beyond the initial mint. Successful projects consistently update holders, meet deadlines, and deliver new phases of the project as promised. This builds trust and maintains community engagement over time.
 
 _African NFT Success Factors_
-*Cultural and Local Identity
+1. Cultural and Local Identity
 Artists like Osinachi have created NFT collections rooted in local culture and personal identity. Osinachi's work, made using Microsoft Word, blends tradition with digital creativity. This uniqueness made his work stand out globally while staying rooted in local expression. African projects succeed by tapping into authentic cultural contexts rather than imposing external narratives.
-*Social Impact and Community Empowerment
+2. Social Impact and Community Empowerment
 Some African NFT projects focus on issues like wildlife conservation, education, and African storytelling. For example, NFT collections supporting Kenyan wildlife protection or Afrobeats-focused projects have helped raise funds while promoting African culture. These projects create sustainable demand by solving real problems rather than relying on speculative interest.
-*Accessibility and Education
+3. Accessibility and Education
 Because many African users are new to crypto and NFTs, several projects have prioritized education and onboarding. Workshops, mobile-friendly tools, and use of low-cost blockchains like Polygon or Celo help make participation easier for creators and collectors alike. This approach builds stronger, more engaged communities by ensuring participants understand the technology and its potential.
 
 _Comparative Analysis_
