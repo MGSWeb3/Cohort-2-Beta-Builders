@@ -45,7 +45,7 @@ Got a project or a collaboration in mind? I’m always open to working with indi
 
 * 📧 Email: \[azeezsodiqabiodun@gmail.com]
 * 🌍 Location: Remote / Nigeria
-*    Behance: (#https://www.behance.net/azeezsodiq)
+*    Behance: (https://www.behance.net/azeezsodiq)
 * 💼 LinkedIn: 
 * 🧠 Discord:
 
